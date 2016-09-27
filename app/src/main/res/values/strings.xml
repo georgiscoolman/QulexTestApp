@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QulexTestApp</string>
+    <string name="empty_list">List is empty\n Please, use search to find your gif</string>
+
+    <!--menu-->
+    <string name="action_search">Search</string>
+    <string name="refresh_list">Refresh</string>
+    <string name="search_hint">Gif search query</string>
+
+</resources>
